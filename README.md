@@ -106,27 +106,3 @@ https://github.com/sanattaori/techdot/blob/cecabc1917965ed7404e4c444b7572c97e10d
  * The authority login is to ensure security to prevent piracy,harresment and corruption from candidates standing in election.
  * OTP generation is to authenticate the right aadhar card owner.
  * button disabling and automatic logout is to prevent multiple voting by single candidate. 
-
-### Screenshots
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/1.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/2.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/3.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/4.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/5.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/gan.PNG)
-
-## Deployment
-
-The Aadhaar based voting system is developed to overcome the flaws of EVM system. So directly EVM will be replaced by touch screen interface having the great
-user interface and high security.
-
-## Authors
-
-* **Sanat Taori**
-* **Akshay Motghare**
-* **Mandar Patil** 
-* **Aniket Narkhede**
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
