@@ -14,7 +14,7 @@ app.use( bodyParser.json() )
 app.use(cookieParser());
 app.use(morgan('combined'));
 
-
+app.use("/", express.static('node_modules'));
 
 
 app.use("/", express.static("ui"));

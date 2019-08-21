@@ -1,7 +1,7 @@
 {
-  "name": "techdot",
+  "name": "codefundo2019",
   "version": "1.0.0",
-  "description": "Aadhaar Based voting system using blockchain technology Project implemented as part of Rajasthan Hackathron",
+  "description": "Aadhaar Based voting system using blockchain technology Project implemented as part of Codefundo Hackathon",
   "main": "index.js",
   "dependencies": {
     "cookie-parser": "^1.4.4",
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanattaori/techdot.git"
+    "url": "git+https://github.com/zaidrazakhan/codefundo2019"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sanattaori/techdot/issues"
+    "url": "https://github.com/zaidrazakhan/codefundo2019/issues"
   },
-  "homepage": "https://github.com/sanattaori/techdot#readme"
+  "homepage": "https://github.com/zaidrazakhan/codefundo2019#readme"
 }
