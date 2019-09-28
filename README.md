@@ -16,7 +16,7 @@ Project implemented as part of Rajasthan Hackathron
 
 Clone Project
 ```
-git clone git@github.com:sanattaori/techdot.git && cd techdot
+git clone https://github.com/ZaidRazaKhan/codefundo2019.git && cd codefundo2019
 ```
 Install Dependencies
 ```
@@ -106,3 +106,6 @@ https://github.com/sanattaori/techdot/blob/cecabc1917965ed7404e4c444b7572c97e10d
  * The authority login is to ensure security to prevent piracy,harresment and corruption from candidates standing in election.
  * OTP generation is to authenticate the right aadhar card owner.
  * button disabling and automatic logout is to prevent multiple voting by single candidate. 
+
+
+Election.sol can also be used. It has other features to add entries securely
